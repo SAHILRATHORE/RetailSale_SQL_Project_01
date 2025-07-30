@@ -51,7 +51,7 @@ Table: retail_sales with fields such as transaction ID, sale date/time, customer
 
 - Sales shift segmentation (Morning, Afternoon, Evening)
 
-###Key Findings###
+### Key Findings ### 
 - High-Value Purchases: Several orders exceeded 1000 in total sales.
 
 - Popular Categories: Clothing and Beauty emerged as popular product types.
