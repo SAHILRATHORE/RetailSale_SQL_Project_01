@@ -15,55 +15,54 @@ Exploratory Data Analysis (EDA): Understand data distributions, categories, and 
 Business Insights: Write SQL queries to extract valuable business intelligence from the sales data.
 
 ## Project Structure
-1. Database Setup
-Database: p1_retail_db
+### 1. Database Setup
 
 Table: retail_sales with fields such as transaction ID, sale date/time, customer ID, gender, age, product category, quantity, price, COGS, and total sale.
 
-2. Data Cleaning & Exploration
-Key queries used to:
+### 2. Data Cleaning & Exploration
+**Key queries used to:**
 
-Count total records and customers
+- Count total records and customers
 
-Identify distinct product categories
+- Identify distinct product categories
 
-Find and remove rows with NULL values
+- Find and remove rows with NULL values
 
-3. Business Insights (SQL Queries)
-Examples of the insights extracted:
+### 3. Business Insights (SQL Queries)
+**Examples of the insights extracted:**
 
-Sales on a specific date
+- Sales on a specific date
 
-High-volume clothing sales in November 2022
+- High-volume clothing sales in November 2022
 
-Total sales by category
+- Total sales by category
 
-Average age of beauty product customers
+- Average age of beauty product customers
 
-Transactions with total sales over 1000
+- Transactions with total sales over 1000
 
-Transaction count by gender and category
+- Transaction count by gender and category
 
-Top 5 customers by total sales
+- Top 5 customers by total sales
 
-Monthly sales trends and top-selling months
+- Monthly sales trends and top-selling months
 
-Unique customers per category
+- Unique customers per category
 
-Sales shift segmentation (Morning, Afternoon, Evening)
+- Sales shift segmentation (Morning, Afternoon, Evening)
 
-Key Findings
-High-Value Purchases: Several orders exceeded 1000 in total sales.
+###Key Findings###
+- High-Value Purchases: Several orders exceeded 1000 in total sales.
 
-Popular Categories: Clothing and Beauty emerged as popular product types.
+- Popular Categories: Clothing and Beauty emerged as popular product types.
 
-Top Customers: Identified high-value customers based on total spend.
+- Top Customers: Identified high-value customers based on total spend.
 
-Seasonal Insights: Monthly sales trends helped highlight best-selling periods.
+- Seasonal Insights: Monthly sales trends helped highlight best-selling periods.
 
-Customer Segments: Analysis showed engagement across diverse age groups and genders.
+- Customer Segments: Analysis showed engagement across diverse age groups and genders.
 
-Getting Started
+**Getting Started**
 Clone this Repository
 
 Run SQL Scripts:
